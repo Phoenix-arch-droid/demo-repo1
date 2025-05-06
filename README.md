@@ -14,12 +14,9 @@ in 3...2...1...
 
 0.25 ?
 
-
 might be pushing it but...o.1 ?
-
   
     
-      
-      
+    
 and so it began...
 
