@@ -1,0 +1,337 @@
+{"id":"1cc7cd59-9f06-459c-baef-48490fd305d8","ts":"2026-03-10T10:06:19.083Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"4d67cd69-4832-4ce2-bea2-4196c70beab6","ts":"2026-03-10T13:06:32.814Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"84751432-0a5d-41af-8468-4ad6e7e9c7bb","ts":"2026-03-10T13:06:32.818Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"b03880ee-c07e-4b88-a5e7-b50014f36c0a","ts":"2026-03-10T13:06:34.695Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"60dbedb4-2a70-46c7-bfc4-fcb6d33d13ea","ts":"2026-03-10T13:06:47.582Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"90b571e7-3975-42b3-86be-3691fe983d9e","ts":"2026-03-10T13:06:47.598Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"f5ae4b8f-760f-45fe-bf3b-c1cd19f8153f","ts":"2026-03-10T13:06:48.611Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"32d087df-c3e8-49f4-b328-1b4895f6c033","ts":"2026-03-10T13:06:49.854Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"646fe38d-8a4f-4725-bbbb-29d4dd575e8e","ts":"2026-03-10T13:06:49.857Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"46b3d9a3-22d7-4527-90b9-2ba9c90be135","ts":"2026-03-10T13:06:50.959Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"5307b9ca-5e0b-45f4-b906-3bf70d6b4637","ts":"2026-03-10T13:06:54.657Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"8d2a068a-70c6-4daf-8bdd-15419b37162b","ts":"2026-03-10T13:06:54.659Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"8e56e9f5-809f-4db9-a53d-c03184c7c0d1","ts":"2026-03-10T13:06:56.099Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"98727c86-cd11-4043-8d00-67cdc5cef359","ts":"2026-03-10T13:07:04.214Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"2ffbd5aa-a43a-4c87-a783-5d363aa4a06f","ts":"2026-03-10T13:15:59.975Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"b9c53138-09c2-42f7-9a90-3d1d3abfd9ea","ts":"2026-03-10T13:18:43.779Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"e463bdfd-54cc-465a-a1bc-d92f36b783aa","ts":"2026-03-10T13:21:04.001Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"7cae4115-23cc-4044-bf4c-3a07c0f9f0d3","ts":"2026-03-10T13:30:43.669Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"0cde60e9-2b35-460c-ae7c-20f8caef1f36","ts":"2026-03-10T13:31:47.818Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"d737303e-c1b4-46c5-9f86-404ebb34caf0","ts":"2026-03-10T13:45:35.222Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"29f9a40a-e904-4ed8-a6ef-a1ae6234a6e8","ts":"2026-03-10T13:45:35.275Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"d63e1c87-391f-462f-9d03-84c153d0ffe8","ts":"2026-03-10T13:45:35.299Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"b8b9c0f4-7914-47eb-815f-51b8414e0448","ts":"2026-03-10T13:45:35.170Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"58447fdc-2074-4a7a-a997-9134f73abf72","ts":"2026-03-10T13:45:35.802Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"a9497887-352c-4265-98b8-ba9bc7a7e599","ts":"2026-03-10T13:45:43.666Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"6284d47a-bebe-4241-a570-08b4bf890967","ts":"2026-03-10T13:45:43.672Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"c4d7b2d5-ccf8-4524-aefe-81835029dd2f","ts":"2026-03-10T13:45:43.819Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"888c2370-b2c6-4c83-86c4-16bcfd41572c","ts":"2026-03-10T13:45:43.888Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"3e1ec750-c1f4-47a2-bf53-5f845bf516d6","ts":"2026-03-10T13:45:44.466Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"101e12b0-7e91-49ce-9075-1765ca0a11a2","ts":"2026-03-10T13:45:58.077Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"b2d4788e-af35-4465-aa24-67fa67ca91dc","ts":"2026-03-10T13:45:58.097Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"d1ea29bf-0508-4283-8ab7-ecd8e4f61bf2","ts":"2026-03-10T13:45:58.160Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"d4408a5c-4293-4a8a-ad11-e17c42230f51","ts":"2026-03-10T13:45:58.255Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"0fe74c7d-6d65-40a4-9c16-cd17c1809f35","ts":"2026-03-10T13:45:59.197Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"df9f47eb-0033-4300-a816-6033915c8920","ts":"2026-03-10T13:46:10.983Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"80a41112-d7fb-42f9-bb3d-604653703940","ts":"2026-03-10T13:48:10.867Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"446cfdb9-146d-4079-ad49-e137b91fc2a6","ts":"2026-03-10T16:07:32.026Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"53c14dde-a27d-4da1-a3a8-e64038874d3a","ts":"2026-03-10T16:30:40.714Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"0226b4a6-974e-4f0c-9c1d-cde81f8d0e38","ts":"2026-03-10T16:34:54.166Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"bf7e47a0-06ec-4a4f-8810-86f072f675b5","ts":"2026-03-10T16:34:54.199Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"e7f775c1-3689-430c-9867-d7818befe02d","ts":"2026-03-10T16:34:54.071Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"cc481a74-3ad4-4b4a-b32d-8c5a82b07e33","ts":"2026-03-10T16:34:58.946Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"edededc4-c67f-4b0f-b52b-084bccb33017","ts":"2026-03-10T16:34:59.149Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"0a8e1980-ae2d-464d-ac57-3b96c68ca0e2","ts":"2026-03-10T16:35:00.866Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"a30c5a43-8620-401c-84e7-b2ce1a47dd0e","ts":"2026-03-10T16:35:01.332Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"77c7029b-2865-4d1c-abd5-36dfe420d5a3","ts":"2026-03-10T16:35:01.838Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"1c55526c-a61a-410d-9704-8b2440acf2ef","ts":"2026-03-10T16:35:02.086Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"c141a238-18de-4e44-9958-70545d6b133e","ts":"2026-03-10T16:40:24.424Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"ca0280c6-f222-4aa7-98b5-9cba6ab0d4d1","ts":"2026-03-10T16:40:24.701Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"f9de2da7-15e1-4a26-94e1-30d71ca9f15c","ts":"2026-03-10T16:40:24.978Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"f76fea14-47b1-457b-8f10-47b64759c9cd","ts":"2026-03-10T16:40:25.173Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"a9124af3-1dff-42ae-97ab-5fb3e9f260ea","ts":"2026-03-10T16:40:25.327Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"28067ceb-7a14-46da-9c3f-b084ff89d49d","ts":"2026-03-10T16:40:26.209Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"17880490-9a24-49bd-b42e-a12d8a47facb","ts":"2026-03-10T16:40:27.747Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"980fb139-c8aa-4105-aeb8-5ed71059f508","ts":"2026-03-10T16:40:27.806Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"8da115bb-3838-431f-84b3-60259ab35c82","ts":"2026-03-10T16:40:28.272Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"0ea6076c-ed45-43d1-b363-043d9610fc88","ts":"2026-03-10T16:40:29.535Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"095664bf-e040-41f2-a7da-52fbc4e1739d","ts":"2026-03-10T16:41:40.631Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"3a0aa84c-49fd-4f91-8042-d9eff77d2d61","ts":"2026-03-10T16:41:40.782Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"52e66803-ee2e-4423-bf05-788df89cd9fd","ts":"2026-03-10T16:41:40.876Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"8f0cf322-de1e-43fe-bd48-ae7d4a71631b","ts":"2026-03-10T16:41:41.976Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"05ad7804-5486-400c-b5e4-86d63c0e482f","ts":"2026-03-10T16:41:43.370Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"6d307c5e-4451-4d0f-8a37-c5d04eb84903","ts":"2026-03-10T16:41:46.868Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"bb3bac03-92ec-465c-83ba-3f0e33f618bb","ts":"2026-03-10T16:41:47.292Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"45e1ea83-44ea-4d24-acf4-d0601ef7f330","ts":"2026-03-10T16:41:47.288Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"664cacef-6817-4dc7-89c4-e4c8ba400e7a","ts":"2026-03-10T16:41:47.630Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"1ff8d410-9eb0-4298-b869-6a825ed1c847","ts":"2026-03-10T16:41:47.827Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"33fe0f10-d208-457f-bbd7-acc030d1f27a","ts":"2026-03-10T16:41:49.914Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"f6f4d6ac-1305-40f8-8e12-883e7d7f4c7d","ts":"2026-03-10T16:41:51.785Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"8073693c-e8c4-4c14-8675-749aad39e0a0","ts":"2026-03-10T16:41:51.861Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"711b1440-c669-464a-beb5-5e0f2a3848c5","ts":"2026-03-10T16:41:51.862Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"54ba65a3-e602-4b13-a0c3-778311de65c0","ts":"2026-03-10T16:41:51.941Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"2eb4cb94-9a53-48fc-a6f1-6ddaf46df5e2","ts":"2026-03-10T16:41:52.396Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"54d42805-96a5-49ab-ac41-1f0a38062d7f","ts":"2026-03-10T16:44:25.136Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"edc6c048-c8a7-4cbe-befd-632f85e908d1","ts":"2026-03-10T16:44:25.162Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"fe7f5584-4127-4496-8292-c3f48df1f19e","ts":"2026-03-10T16:44:25.178Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"bb7c92d4-cd3d-479e-89d4-54e82ae7d8e8","ts":"2026-03-10T16:44:25.478Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"6c55c03c-f488-46eb-8464-d0973419a48d","ts":"2026-03-10T16:44:28.370Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"3762ce08-a9b0-4db2-9877-b3b067347008","ts":"2026-03-10T16:44:28.638Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"85833a8f-787f-4695-9d02-a90313290fd3","ts":"2026-03-10T16:44:28.678Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"42cfb330-c5d2-493e-92a7-2f51834299ab","ts":"2026-03-10T16:44:28.727Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"ffa41f19-93da-4720-aaf2-278ad5d2e7b0","ts":"2026-03-10T16:44:29.075Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"54f42fc6-b965-4553-9851-8083563fafa3","ts":"2026-03-10T16:45:14.196Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"c8216e67-749e-4351-9871-682e5a5bb754","ts":"2026-03-10T16:45:14.988Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"040be9a5-51b9-4db3-b4d8-ef13a0258c6c","ts":"2026-03-10T16:45:15.247Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"8fb9e3c4-a35a-4d80-8404-e43ae2e924be","ts":"2026-03-10T16:45:15.261Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"f8bbe2f2-d781-4f54-ad5a-34088e88e636","ts":"2026-03-10T16:45:17.535Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"20c38147-e99c-4820-9a50-3e42a9873a12","ts":"2026-03-10T16:45:22.111Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"c3bd6d76-11b8-4800-ab81-5c8848f525dc","ts":"2026-03-10T16:45:24.224Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"91e5e236-b46c-4410-92f5-e9396340fd2c","ts":"2026-03-10T16:45:26.334Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"03311084-9915-495c-b4b5-d4a7c4f61b33","ts":"2026-03-10T16:45:26.977Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"db20d644-072a-4742-a65a-b517b29fc3e7","ts":"2026-03-10T16:45:27.382Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"a238cfca-416d-4d31-9bd9-9d9f821feac3","ts":"2026-03-10T16:45:30.403Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"44e3048a-d5c9-43d0-a5d6-93fd9453d5f7","ts":"2026-03-10T16:46:33.035Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"d90baa10-33d2-4d84-a70d-8ec7df2619c6","ts":"2026-03-10T16:46:33.292Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"9002fb9f-c1b9-466b-97de-87e893bf58c3","ts":"2026-03-10T16:46:33.558Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"eddf2b0a-46fe-4342-bf9a-f04440eea2c7","ts":"2026-03-10T16:46:35.404Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"156cf55f-43f1-4d59-bad6-38dc5b3f3293","ts":"2026-03-10T16:46:35.989Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"77d2c76e-8397-4877-a9ce-92919f4ff247","ts":"2026-03-10T16:46:37.873Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"c1d0d991-472d-4455-927e-54c0d54a9aa9","ts":"2026-03-10T16:46:38.179Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"8de60de7-bc45-402f-83c0-2e5e1dbf7451","ts":"2026-03-10T16:46:38.815Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"8c28f213-ad8f-4220-a905-958ab1c9839f","ts":"2026-03-10T16:46:38.875Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"ab7e38f7-1f87-4a35-ab51-b9959440892e","ts":"2026-03-11T07:48:45.552Z","action":"server","message":"Backend started on port 5174","meta":{"demoMode":true}}
+{"id":"bb6a1971-56bb-4112-9aff-18ee41b7aff5","ts":"2026-03-11T16:14:30.826Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"03e6fc00-c9c0-4fa2-8872-af79466d0b01","ts":"2026-03-11T16:14:31.103Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"0a719ff8-2121-4489-bcf8-fb8482d9aaec","ts":"2026-03-11T16:14:31.939Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"735f9e4d-0943-4918-adb8-9eb8ae48723c","ts":"2026-03-11T16:14:32.100Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"09578af1-9cac-4507-bbee-06467b54f70a","ts":"2026-03-11T16:14:32.791Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"4033c2f5-1cf4-454f-9b84-8709b36975ee","ts":"2026-03-11T16:14:32.959Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"41d66c79-469e-45e1-97ea-d833a8dd6b2b","ts":"2026-03-11T16:14:49.815Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"437bad4b-b352-4d70-918f-d6177f93ba04","ts":"2026-03-11T16:16:25.992Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"1c17d382-b639-4bb1-ae58-15b0d655ee19","ts":"2026-03-11T16:16:26.055Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":true}}
+{"id":"91f25490-722e-49a4-9c59-12304ed3e1aa","ts":"2026-03-11T16:16:27.734Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"6e21433e-42a9-4fd4-8508-a3adaa871ffb","ts":"2026-03-11T16:16:27.889Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"bd55f808-7160-47a8-b42c-0542db36cbb8","ts":"2026-03-11T16:16:31.578Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"baeddcfb-2d20-4321-b0dd-06e6c6ce7e17","ts":"2026-03-11T16:16:31.943Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"53f2a658-8b2c-4c32-82b1-2a9d13b35c03","ts":"2026-03-11T16:16:35.595Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"817cdd17-4ee5-42e2-9b7e-e6992131792f","ts":"2026-03-11T16:16:35.707Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"e296b96b-3626-4f05-8330-2bfed9003e12","ts":"2026-03-11T16:16:47.356Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"de54ada0-0e89-4e4d-91e7-d878649888c8","ts":"2026-03-11T16:16:47.992Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"6e057864-afba-4323-90ac-6414ae7fd9fd","ts":"2026-03-11T16:16:51.638Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"66d5b5f8-1fc8-4de4-bb0c-f80ec56a36cd","ts":"2026-03-11T16:16:53.540Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"d7dcd400-c291-4ab9-b48a-963050d5b443","ts":"2026-03-11T16:16:54.409Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"a87b48d0-745c-42b1-8683-f32a42144165","ts":"2026-03-11T16:16:56.611Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"13382ed2-48e7-4280-bace-cf834cc1511b","ts":"2026-03-11T16:18:38.436Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"69707a8a-cd96-448f-b45c-1a8eed458c99","ts":"2026-03-11T16:18:38.539Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"047db0b0-b69b-4a72-b4a1-b21764565447","ts":"2026-03-11T16:18:40.607Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"79eb53a2-6543-4ae3-a4e6-28962ab4ac09","ts":"2026-03-11T16:18:40.784Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"9158eb38-9da5-489b-8901-044db410141e","ts":"2026-03-11T16:18:45.785Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"76142bff-402f-4056-8cd0-614dfeb99f39","ts":"2026-03-11T16:18:46.994Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":false}}
+{"id":"61f54681-634f-4499-acd1-3d7c6c04e893","ts":"2026-03-11T16:18:48.578Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"26b74b8b-3926-451d-8f5e-e3c2d91c8e66","ts":"2026-03-11T16:18:49.253Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"7b0ca9f4-d1aa-431a-9100-ebca5069dd4c","ts":"2026-03-11T16:18:57.193Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"23ef12ff-3a3e-47d4-a85e-a7508c27c0b8","ts":"2026-03-11T16:18:58.069Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"d8b3011a-4bce-40cb-aa92-3e8dab5ed9bc","ts":"2026-03-11T16:18:58.101Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"b40a6b1a-97de-4b96-9176-1bdb12f9ee08","ts":"2026-03-11T16:18:58.236Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"01a213e7-076e-408f-9df8-3e9944efc7b7","ts":"2026-03-11T16:18:58.757Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"96c7d7bc-e959-43f3-afbd-35e880befc1f","ts":"2026-03-11T16:19:02.197Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"da3006cd-338e-4238-9002-0b6f93fe3d36","ts":"2026-03-11T16:19:08.104Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"c6938200-c211-4c1a-a183-63dea45928c4","ts":"2026-03-11T16:19:08.618Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"89346412-2617-4688-8a04-5ff37e67501e","ts":"2026-03-11T16:19:09.616Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"529726e5-5ed2-4ee0-8738-5df14c6347ce","ts":"2026-03-11T16:19:10.152Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"d8658528-ea12-45a3-8eff-3f3f4a27c2b7","ts":"2026-03-11T16:19:12.255Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"8cc827c3-4083-4cc2-b7d9-031044e996d3","ts":"2026-03-11T16:19:12.305Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":true}}
+{"id":"47fb92e0-4fb1-4c3e-af65-b3ad7a411dea","ts":"2026-03-11T16:19:13.806Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"63e50118-0ad7-43a1-aa44-ef13f8c8917c","ts":"2026-03-11T16:19:13.905Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"5d7fb92a-818b-48e1-aee4-007ec6899276","ts":"2026-03-11T16:19:14.048Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"b9eebc65-6821-4b31-a889-3464f64729a6","ts":"2026-03-11T16:19:16.333Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"94964b06-9a52-4d86-9014-ab4196885a08","ts":"2026-03-11T16:19:24.120Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"15e80ff2-f1d4-48fc-b6ad-b3a2697dd26d","ts":"2026-03-11T16:19:24.618Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"03fd4f78-3587-4869-b3a1-1041f2bfe98d","ts":"2026-03-11T16:19:24.868Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"79d7c79b-0ff8-4740-ad01-07ba90332ce3","ts":"2026-03-11T16:19:27.645Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"758bdb0a-e008-4431-9c6d-a52ce3b8fc4c","ts":"2026-03-11T16:19:27.687Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"b80d4db4-a61d-458a-8dcd-407d60658ed7","ts":"2026-03-11T16:19:28.456Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"daf23817-33d8-4255-b8bd-4e7b2cd69fae","ts":"2026-03-11T16:19:30.429Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"32543fde-a598-447b-a1ac-a6409b8f53b5","ts":"2026-03-11T16:20:12.556Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"1bfe821c-8358-4a91-8606-4c96370d874a","ts":"2026-03-11T16:20:12.661Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"ecad5541-4e30-4f0c-b27a-8df9b997033e","ts":"2026-03-11T16:20:14.872Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"abcce9ff-2593-4fce-8fff-eb747f3586bf","ts":"2026-03-11T16:20:15.264Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"0be67496-0400-4f1d-8ad7-0885d53ea07c","ts":"2026-03-11T16:20:23.638Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"0c274d3e-6894-4a51-ae6f-d9ac0f013be6","ts":"2026-03-11T16:20:23.722Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"50b0d00b-19c5-40b4-a60d-8197dc102838","ts":"2026-03-11T16:20:24.497Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"4005208f-20e2-47b2-928a-39cf381a1133","ts":"2026-03-11T16:20:24.549Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"4d459432-f664-4cf0-a54d-2850a3a1c421","ts":"2026-03-11T16:20:24.586Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"bb79371a-f400-4fcb-8b66-2c3f92c1a54a","ts":"2026-03-11T16:20:24.575Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"65a05458-95f7-4c77-8f9b-37a5829a50b8","ts":"2026-03-11T16:20:25.097Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"1e3211f5-eac1-4bef-8170-6df96d69416e","ts":"2026-03-11T16:20:25.516Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"ffc93d3f-c626-45c1-bc16-a50a65967054","ts":"2026-03-11T16:20:28.760Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"9e04a78e-5531-4c06-8019-dfa32ecd4229","ts":"2026-03-11T16:20:28.813Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"23f1f3a3-1a1b-49f6-8083-9cb47f06d64a","ts":"2026-03-11T16:20:28.749Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"25faa41f-ae99-4b30-84a2-d826f3b8e5c0","ts":"2026-03-11T16:20:29.275Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"10a3a263-0f7a-4cf8-9362-6779f8137aaa","ts":"2026-03-11T16:20:30.545Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"13c6a791-b2f3-4d45-8647-e7b9e7b7bd12","ts":"2026-03-11T16:20:31.406Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"9fea17be-45b2-4804-93e4-d6e40b173936","ts":"2026-03-11T16:20:33.048Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"a947955b-52b0-400a-8957-61a2c1e29ee9","ts":"2026-03-11T16:20:33.188Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"9331fada-12c4-45e4-9ec2-93139be3ce23","ts":"2026-03-11T16:20:35.070Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"d2c3a910-b03c-4f61-aa3b-2f5fe1a52201","ts":"2026-03-11T16:20:35.345Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"77d09dbe-43af-48b6-9e82-9ce1a2999652","ts":"2026-03-11T16:20:37.712Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"0b206ac2-8a68-4051-83fa-e860bf25a1b3","ts":"2026-03-11T16:20:40.468Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"7c327287-3f33-4fb1-8392-23ff66edbe08","ts":"2026-03-11T16:20:41.937Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"64358955-7a9c-4c91-8399-0a2f4a7fce6d","ts":"2026-03-11T16:20:48.639Z","action":"location","message":"Location selected: US West (Demo)","meta":{"locationId":"us-west"}}
+{"id":"898c29c9-5557-43c2-be5c-c4b6da2df8a6","ts":"2026-03-11T16:20:50.239Z","action":"location","message":"Location selected: EU Central (Demo)","meta":{"locationId":"eu-central"}}
+{"id":"1740f0f8-58f8-4bcc-ac93-927bad3354d8","ts":"2026-03-11T16:20:51.870Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"f1ee1e08-6d28-4942-9e05-29613fa9190e","ts":"2026-03-11T16:20:51.858Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"4cdcfefa-e905-4c93-bd12-958a0ce201e2","ts":"2026-03-11T16:20:51.842Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"2a92ab51-3f38-4c21-9055-240afc55261a","ts":"2026-03-11T16:20:52.310Z","action":"location","message":"Location selected: AP Southeast (Demo)","meta":{"locationId":"ap-southeast"}}
+{"id":"16749d4b-1712-4709-b473-4bb7084aabfc","ts":"2026-03-11T16:20:54.650Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"f5826138-ef2a-4014-bd81-19c933c6d4e0","ts":"2026-03-11T16:21:00.311Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"b83bd7dc-6142-49c1-a711-6adcd4b425e2","ts":"2026-03-11T16:21:03.034Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"1ad8b06c-fb2b-4cc0-aeb2-60095a12bf46","ts":"2026-03-11T16:21:04.002Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"efc204b4-531f-44b5-a63b-cf4402214dce","ts":"2026-03-11T16:21:04.139Z","action":"location","message":"Location selected: AP Southeast (Demo)","meta":{"locationId":"ap-southeast"}}
+{"id":"b6a04a46-471a-4dc0-8aa0-6dda96c3b274","ts":"2026-03-11T16:21:04.512Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"9e096789-06b3-44ce-b62c-2d68c81c6344","ts":"2026-03-11T16:21:04.669Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"4c2cbd74-5121-47b7-9364-8b63d22a3b37","ts":"2026-03-11T16:21:06.020Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"113fd819-64b3-405b-a83b-be74e8f97c43","ts":"2026-03-11T16:21:07.672Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"0270e593-de18-471a-a6e8-52fd6b8fc46e","ts":"2026-03-11T16:21:08.379Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"666eab32-88ce-46ed-b0a0-b34ef55fc411","ts":"2026-03-11T16:21:09.085Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"bcd0a889-b6bf-477e-9314-9cf2df87cc2c","ts":"2026-03-11T16:21:11.643Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"2fbfba20-168f-459e-b650-2f53b997e804","ts":"2026-03-11T16:21:11.869Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"fd1fccad-28b2-4256-980a-ba755a72793c","ts":"2026-03-11T16:21:13.786Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"1080a752-3513-43e5-b100-e2d3fe9feb63","ts":"2026-03-12T08:11:23.612Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"bfb9d878-4a60-41dd-9000-bd620f1e97f4","ts":"2026-03-12T08:11:24.009Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"4226edb8-1df2-4005-9220-e43e448b148b","ts":"2026-03-12T08:11:25.857Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"04246a89-b577-4958-afc4-f3f350bc6e80","ts":"2026-03-12T08:11:25.907Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"8a0618c3-38e5-445a-a74b-7ef8b3405652","ts":"2026-03-12T08:11:36.655Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"8697269f-4604-4f5c-ba35-1df500fd6fd6","ts":"2026-03-12T08:11:37.466Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"72f6bfe9-b280-47d5-9d2b-3fff4ef66938","ts":"2026-03-12T08:11:37.619Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"d4a46728-3fa5-4941-8ee6-f011cb7cf652","ts":"2026-03-12T08:11:37.937Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"32b01aaf-171e-4fb7-ba7d-d5cdcc5635aa","ts":"2026-03-12T08:11:38.947Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"96443dd7-49cb-49d8-983a-538db01a94b0","ts":"2026-03-12T08:11:38.988Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"3756c339-4a1d-47bc-8671-62222b12e17a","ts":"2026-03-12T08:11:48.529Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"99252810-5c54-4d86-8633-c325ca625b76","ts":"2026-03-12T08:11:48.538Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"1b6af87b-9da1-4bac-89dc-6ebdc249ae00","ts":"2026-03-12T08:11:48.607Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"0fb13434-a2f0-49c4-9aff-6c291aa9f0b3","ts":"2026-03-12T08:11:48.966Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"41120404-832c-45c6-9f74-d220633f0f23","ts":"2026-03-12T08:11:49.297Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"fbb4a60e-0132-4cab-b86d-c2181a652cc8","ts":"2026-03-12T08:11:49.597Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"4bd45942-ad59-48e3-8909-de99c475cfaa","ts":"2026-03-12T08:39:24.194Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"07a23fbf-5444-495e-b468-f1ad196ee4ef","ts":"2026-03-12T08:39:24.280Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"aabeb424-654f-497c-8154-c3e0b93695c1","ts":"2026-03-12T08:39:26.673Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"3f785572-d879-434e-81d2-bd09562235a7","ts":"2026-03-12T08:39:26.840Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"b70bece0-4482-4936-88f7-94ace249b418","ts":"2026-03-12T08:39:36.368Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"f444c49f-f357-4c9f-ab3a-7a08f7234b52","ts":"2026-03-12T08:39:37.822Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"fca2b9fc-244d-455a-b42f-9d51991df63e","ts":"2026-03-12T08:39:37.983Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"2d39cd7e-7153-4d72-83ef-949c568ce557","ts":"2026-03-12T08:39:41.377Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"e5fa5fa1-a48d-46ac-b785-86285fbdce91","ts":"2026-03-12T08:39:42.894Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"25b3fa8b-219d-4845-93b4-5d48406010de","ts":"2026-03-12T08:39:44.843Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"dc1ba3a4-c101-4ed7-b118-025f6f6e417b","ts":"2026-03-12T08:39:45.759Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"b643baf5-0e10-4495-baeb-d33136881981","ts":"2026-03-12T08:39:55.770Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"ddc294cc-b2ed-414b-885f-246d2061da7f","ts":"2026-03-12T08:39:55.857Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"8d9b4a65-f5fd-4d7e-bb7e-d178563f9aa6","ts":"2026-03-12T08:39:56.217Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"1d7371d6-fab7-4c2f-b379-0a13e47a5f35","ts":"2026-03-12T08:39:56.333Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"2e1d5865-d816-4040-afc8-97a23e218ac4","ts":"2026-03-12T08:40:09.088Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"9a0382f4-9e25-4b9f-ae34-42508e760db2","ts":"2026-03-12T08:40:09.572Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"60a7e77e-9ebd-40e8-a04c-ee4a7d7f5ac7","ts":"2026-03-12T08:40:09.587Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"29285a81-c614-4482-b3d0-797624f8dcdc","ts":"2026-03-12T08:40:10.365Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"0579b9f7-80a0-44d9-bc4e-ec112a46ddd4","ts":"2026-03-12T08:40:10.406Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"6c8bf40c-7b7e-417a-840a-8fdc1141c023","ts":"2026-03-12T08:40:10.424Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"63628125-b7a8-4cb3-855b-95323f1e356b","ts":"2026-03-12T08:40:11.315Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"0dcc6943-3607-4dee-958e-8c9bd4f8cad4","ts":"2026-03-12T08:40:13.597Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"48474d38-2971-43b5-a5be-17aefce01ca4","ts":"2026-03-12T08:40:14.201Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"5d01097f-02e5-4b69-b30e-1e589d3b93ee","ts":"2026-03-12T08:40:15.800Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"1e939cfc-b909-448a-92fa-b8d5cca669c4","ts":"2026-03-12T08:40:17.219Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"10d386ef-2d53-48cb-9f63-3334da8b67ea","ts":"2026-03-12T08:40:18.267Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"81338b4f-1ac6-403f-9516-02cef39452f0","ts":"2026-03-12T08:40:19.176Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"7d574ea9-58f1-468e-a037-1e46e5b75d96","ts":"2026-03-12T08:40:20.648Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"9b67951b-fffb-40e7-bf75-e9506bb91cc3","ts":"2026-03-12T08:40:21.148Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"fc7ba371-1698-4985-8f71-22e4cc1a9ded","ts":"2026-03-12T08:40:21.191Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"2e784044-9b69-44b2-9879-347e0355a87e","ts":"2026-03-12T08:40:21.301Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"49c93e2d-2f51-43dc-806d-01c5796569cb","ts":"2026-03-12T08:40:21.352Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"2087823c-3295-4451-88a1-cff34a54f679","ts":"2026-03-12T08:40:30.047Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"7a3f42e1-d1d2-4245-91c4-f973cb8dff8c","ts":"2026-03-12T08:40:31.405Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"56fec421-faeb-497b-98c1-750d5d98ec39","ts":"2026-03-12T08:40:31.499Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"16b0fdd3-c3ae-46d5-bc7e-31566f33b317","ts":"2026-03-12T08:40:31.960Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"5c6d6faf-43f8-432a-b961-297ee7cffbe1","ts":"2026-03-12T08:40:32.165Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"f6486538-a598-4a77-98dc-f7f36cd69334","ts":"2026-03-12T08:40:32.376Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"75a43207-deba-4468-a2c5-b8b196abd9d1","ts":"2026-04-02T08:42:11.644Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"c398456b-63d7-44df-a13d-4d67c0c9bda2","ts":"2026-04-02T08:42:38.672Z","action":"location","message":"Location selected: US West (Demo)","meta":{"locationId":"us-west"}}
+{"id":"e800d66d-5a9d-4cef-8952-de90e9f4b1a9","ts":"2026-04-02T08:42:38.683Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"595e002c-9c90-4290-842e-23a51e12527f","ts":"2026-04-02T08:42:38.686Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"0a34109c-8999-4225-891a-f93851d7a6d5","ts":"2026-04-02T08:42:38.692Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"d83d9744-5c16-4c0b-a82f-8ba90cbf445c","ts":"2026-04-02T08:42:38.693Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"07bf958d-4132-4232-a1a4-943617927f3d","ts":"2026-04-02T08:42:38.700Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"8c77569a-7ac7-493e-ab5a-3bb5f580fca8","ts":"2026-04-02T08:42:38.702Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"9cbfc87d-b196-45b4-94d5-aa79c6ceb14f","ts":"2026-04-02T08:43:46.023Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"6d8574cf-7a52-4593-ac76-cfcd32f187b4","ts":"2026-04-02T08:44:25.611Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"cec67386-f78c-4d3f-a2ac-c4be16c39779","ts":"2026-04-02T08:44:25.612Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"776ce62c-734b-4166-97d2-888743ccf0f8","ts":"2026-04-02T08:44:25.623Z","action":"location","message":"Location selected: US West (Demo)","meta":{"locationId":"us-west"}}
+{"id":"26051327-541e-438e-8219-b3395866e26d","ts":"2026-04-02T08:44:25.630Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"17896538-640b-41c1-8c81-f16bde3b561c","ts":"2026-04-02T08:44:25.632Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"13f501c8-1d38-4e3b-943a-aee079da0685","ts":"2026-04-02T08:44:25.637Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"2de822d7-64fb-4776-bfb0-62d423aa58e4","ts":"2026-04-02T08:44:25.639Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"8f7d5a45-c3f7-491e-a96c-f13a3eb6b015","ts":"2026-04-02T08:44:25.647Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"734f9805-3b61-4ca0-9069-4460b2ba0a4f","ts":"2026-04-02T08:44:25.649Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"53e9cccb-9954-4fa2-87df-46a5da3760d2","ts":"2026-04-02T08:44:56.877Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"fb7eddfa-3a47-4865-b89b-1ffc1f1dc0f2","ts":"2026-04-02T08:44:56.879Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"d7a4ce90-82cd-424e-a293-4f23ca95341a","ts":"2026-04-02T08:44:56.882Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"1e48c76e-9aaf-4653-86ac-4c3639dc9d74","ts":"2026-04-02T08:44:56.883Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"77069f0a-7c48-417b-900a-ef7de4429010","ts":"2026-04-02T08:44:56.885Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"2428aafe-5113-4665-a3e1-f9bf451ad4fd","ts":"2026-04-02T08:44:56.887Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":true}}
+{"id":"8c015fbd-9884-47bf-84b3-b1c266530b5b","ts":"2026-04-02T08:44:56.890Z","action":"location","message":"Location selected: EU Central (Demo)","meta":{"locationId":"eu-central"}}
+{"id":"65ea19bc-68ea-4922-b04a-9ab4865836ae","ts":"2026-04-02T08:45:38.288Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"c1a5eea9-195a-40e3-aaa0-d3b8d04f81b0","ts":"2026-04-02T08:45:38.290Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"dc6253c8-4d32-48bd-858f-a529ae6cf724","ts":"2026-04-02T08:45:39.106Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"9cc1a8e9-6d72-4863-b5d6-808a54a1a663","ts":"2026-04-02T08:45:39.107Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":false}}
+{"id":"2cf6d8ea-59ba-4e72-b520-a67333958cf6","ts":"2026-04-02T08:45:43.211Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"90a46f14-fa2b-4def-aa9a-1bbb26b0c4cb","ts":"2026-04-02T08:45:43.213Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"eda21167-4eec-40ae-bb35-ded69e16880e","ts":"2026-04-02T08:45:45.244Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"ac5f355c-b1ef-427b-8121-658d4b4edf28","ts":"2026-04-02T08:45:45.246Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":true}}
+{"id":"413135fb-7d29-46e8-b11d-9e451b59253e","ts":"2026-04-02T08:45:48.478Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"42ff63fc-a3b6-4f0d-8cf8-4fb445458155","ts":"2026-04-02T08:45:48.481Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"dec4b0ad-0ee8-49a2-9f52-2119afddf975","ts":"2026-04-02T08:47:43.909Z","action":"server","message":"Backend started on port 5000","meta":{"demoMode":true}}
+{"id":"d53bde9c-d7fa-4c28-a8b9-2c176e960433","ts":"2026-04-02T08:48:15.921Z","action":"location","message":"Location selected: US West (Demo)","meta":{"locationId":"us-west"}}
+{"id":"8b3660fd-bb6c-45a1-a8ca-f6576bd2d0ac","ts":"2026-04-02T08:48:15.931Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"8032abd1-b528-4512-b0d0-07ce635a1e9d","ts":"2026-04-02T08:48:15.934Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"02d0e4f0-4dca-4a42-91b6-afc4237865be","ts":"2026-04-02T08:48:15.939Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"60457180-2d6d-4ee2-bafa-427db2137129","ts":"2026-04-02T08:48:15.942Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"c223b041-bbe0-41d3-934d-2e5d8bad2338","ts":"2026-04-02T08:48:15.947Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"e10434b4-b973-4968-91bc-074d10a8ba1f","ts":"2026-04-02T08:48:15.951Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"fa5aabea-4eca-4606-8b32-5eebadc0fb43","ts":"2026-04-02T09:03:35.480Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"48de6cc0-f133-4f87-af28-eca5ceb6d887","ts":"2026-04-02T09:03:35.496Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"a58fcbbd-c676-4b40-a8e1-fe48b0b63d71","ts":"2026-04-02T09:03:41.925Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"959c2218-446a-443b-a705-d19d1136656c","ts":"2026-04-02T09:03:41.953Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":false}}
+{"id":"e56b2de8-8d97-4758-8d60-91ebb5e2e086","ts":"2026-04-02T09:03:59.821Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"17b03bcf-ac1c-4dad-9ac7-033a107c4d50","ts":"2026-04-02T09:04:00.000Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"e3b83caf-8b10-423e-a9b7-a5d18a52be13","ts":"2026-04-02T09:04:48.935Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"c28fdea0-c2a8-44e5-94f9-f6f6fde61ff6","ts":"2026-04-02T09:04:48.985Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"53b9ee3c-78ad-4dc5-a193-3bc68da9ecce","ts":"2026-04-02T09:05:22.672Z","action":"disconnect","message":"Disconnect requested","meta":null}
+{"id":"1fe97ea1-8a09-4531-ad6e-08c59411f5c8","ts":"2026-04-02T09:05:22.693Z","action":"disconnect","message":"VPN marked disconnected","meta":{"killSwitchEnabled":true}}
+{"id":"b62709af-8112-4ba5-bd59-c6a1a013ff9f","ts":"2026-04-02T09:05:27.242Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"f027502c-5c5a-4dd7-996c-dd7d99681aff","ts":"2026-04-02T09:05:27.255Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"250981fb-5527-4a00-819b-d88f25e762cb","ts":"2026-04-02T09:05:41.766Z","action":"connect","message":"Connect requested","meta":null}
+{"id":"4461562f-a153-4180-be1a-2fded2099450","ts":"2026-04-02T09:05:41.800Z","action":"connect","message":"VPN marked connected","meta":{"demoMode":true}}
+{"id":"a2db0de6-0771-4246-ba40-9574e150de96","ts":"2026-04-02T09:05:50.157Z","action":"location","message":"Location selected: EU Central (Demo)","meta":{"locationId":"eu-central"}}
+{"id":"e7b7962d-2d9e-49c8-9f7d-a8dcff80b899","ts":"2026-04-02T09:06:02.649Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"1b2594b0-6cc1-445f-be3f-c13e555dcd8f","ts":"2026-04-02T09:06:25.563Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"eb6e8117-6afa-4937-92d1-5f430db5820d","ts":"2026-04-02T09:06:25.985Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"ccda6666-b0c1-43d4-b128-2b315a090ca2","ts":"2026-04-02T09:06:26.018Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"3a6603e6-46c3-4c62-a0d6-55fbca7ce1b9","ts":"2026-04-02T09:06:26.084Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"8ec1be44-d7b0-4fe4-b6fd-95872f5e2a93","ts":"2026-04-02T09:06:26.131Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"bd8e85bc-afde-4d84-b259-f03a84b3723e","ts":"2026-04-02T09:06:26.165Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"0788c4d7-2d3d-4330-83fb-df918a8842c1","ts":"2026-04-02T09:06:26.202Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"fa24fb84-21e2-4ca2-ba31-88ef8a0409cb","ts":"2026-04-02T09:06:26.378Z","action":"location","message":"Location selected: US West (Demo)","meta":{"locationId":"us-west"}}
+{"id":"c20afd36-fdab-44bb-b832-124967197901","ts":"2026-04-02T09:06:31.195Z","action":"location","message":"Location selected: US East (Demo)","meta":{"locationId":"us-east"}}
+{"id":"eff87793-716e-4db4-a769-a07bb0de81c5","ts":"2026-04-02T09:06:35.349Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"673b71f7-8197-4680-b1a0-09a444509d20","ts":"2026-04-02T09:06:35.368Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"8d4468ca-77cf-44ee-8f61-34cb68fe7486","ts":"2026-04-02T09:06:36.676Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"5b4de6ac-4eaf-4d78-9acb-78d5aced2493","ts":"2026-04-02T09:06:36.690Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"8b96a86a-81b4-4880-b9d6-fc85cc2986e9","ts":"2026-04-02T09:06:38.245Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"38bb94ab-9dfd-4f00-ac2e-9363b5cd4539","ts":"2026-04-02T09:06:38.257Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"1612c09b-bab3-4824-b7b9-55d019c8ddc6","ts":"2026-04-02T09:06:39.474Z","action":"location","message":"Location selected: EU Central (Demo)","meta":{"locationId":"eu-central"}}
+{"id":"c857e52d-8fdd-45f2-a6e5-93768c4319b8","ts":"2026-04-02T09:06:41.513Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"e6be84e5-aa2e-445e-beb8-17e3d20eb431","ts":"2026-04-02T09:06:41.538Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
+{"id":"7cf08830-bebd-479d-bfa5-0f1d9e8fbb77","ts":"2026-04-02T09:06:42.687Z","action":"killswitch","message":"Kill switch disable requested","meta":null}
+{"id":"281cc464-afb2-4a15-8819-4cf3f41e7f0e","ts":"2026-04-02T09:06:42.698Z","action":"killswitch","message":"Kill switch disabled","meta":{"demoMode":true}}
+{"id":"801ba29d-f958-420b-8aa3-9fe93037fc68","ts":"2026-04-02T09:06:44.335Z","action":"location","message":"Location selected: US West (Demo)","meta":{"locationId":"us-west"}}
+{"id":"68694fe8-d933-4dca-b52f-1f7ef50b9402","ts":"2026-04-02T09:06:52.074Z","action":"killswitch","message":"Kill switch enable requested","meta":null}
+{"id":"1deba02f-713a-452c-989a-b08b6d6a0ac1","ts":"2026-04-02T09:06:52.093Z","action":"killswitch","message":"Kill switch enabled","meta":{"demoMode":true,"connected":true}}
